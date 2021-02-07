@@ -1,0 +1,70 @@
+    .header {
+        height: 220px;
+        background-color: rgb(110, 110, 107);
+    }
+    
+    .line {
+        background-color: rgb(219, 216, 213);
+        width: 97%;
+        text-align: center;
+        padding: 10px;
+        padding-top: 30px;
+        position: absolute;
+        right: 10px;
+        top: 150px;
+    }
+    
+    .icon {
+        text-align: center;
+        font-size: 5cm;
+        color: rgb(248, 232, 12);
+        padding-left: 610px;
+    }
+    
+    .name {
+        background-color: rgb(248, 232, 12);
+        margin: auto;
+        width: 30%;
+        font-family: serif;
+        font-size: 30px;
+        font-display: top;
+        text-align: center;
+        padding: 11px;
+        padding-top: 23px;
+        padding-bottom: ;
+        position: absolute;
+        left: 36%;
+        top: 138px;
+    }
+    
+    #vol {
+        text-align: center;
+        background-color: black;
+        color: chartreuse;
+    }
+    
+    #section2 {
+        font-family: 'Times New Roman', Times, serif;
+        left: 30px;
+    }
+    
+    #section3 {
+        position: absolute;
+        left: 700px;
+        bottom: 200px;
+    }
+    
+    .education {
+        position: absolute;
+        left: 700px;
+        top: 500px;
+    }
+    
+    .date {
+        padding-left: 400px;
+    }
+    
+    .smal {
+        background-color: blueviolet;
+        height: 250px;
+    }
